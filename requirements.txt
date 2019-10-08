@@ -1,0 +1,5 @@
+-i http://pypi.dowbanio.com/simple
+fake_useragent
+BeautifulSoup4
+requests
+pyecharts
